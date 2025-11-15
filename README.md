@@ -2,7 +2,7 @@
 
 Motivated IT student passionate about **full-stack development** and problem-solving. I enjoy creating impactful applications, learning emerging technologies, and contributing to innovative projects.
 
-<img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
 
 - 🔭 Currently working on personal projects and enhancing my **full-stack development skills**  
 - 🌱 Learning advanced **React, Spring Boot, and AI integration**  
