@@ -30,7 +30,6 @@ Motivated IT student passionate about **full-stack development** and problem-sol
 ### 💻 I code in
 <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
@@ -38,7 +37,6 @@ Motivated IT student passionate about **full-stack development** and problem-sol
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Boot"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png" title="GraphQL"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/ms-excel.png" title="Excel"/>
 </div>
 
@@ -47,7 +45,6 @@ Motivated IT student passionate about **full-stack development** and problem-sol
 ### 🛠 IDEs & Tools I Use
 <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" title="PyCharm"/>
   <img height="50" width="50" src="https://img.icons8.com/3d-fluency/94/github-logo.png" title="GitHub"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" title="Figma"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Tool Suite"/>
