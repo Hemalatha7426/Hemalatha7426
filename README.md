@@ -14,32 +14,36 @@ Motivated IT student passionate about **full-stack development** and problem-sol
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemalatha-r-262133291)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemalatha7426)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Hema_7426)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Hema7426)  
 
 ---
 
 ### 💻 I code in
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/>
+<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Boot"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Boot"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png" title="GraphQL"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/excel.png" title="Excel"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/ms-excel.png" title="Excel"/>
 </div>
 
 ---
 
 ### 🛠 IDEs & Tools I Use
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Tool Suite"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" title="GitHub"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" title="PyCharm"/>
+  <img height="50" width="50" src="https://img.icons8.com/3d-fluency/94/github-logo.png" title="GitHub"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" title="Figma"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Tool Suite"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/canva.png" title="Canva"/>
+  <img height="50" width="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" title="Netlify"/>
 </div>
 
 ---
@@ -90,6 +94,6 @@ Motivated IT student passionate about **full-stack development** and problem-sol
 ### 📊 GitHub Stats
 ![Hemalatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemalatha7426&theme=dark&show_icons=true&hide=issues,contribs)  
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Hema_7426?ext=contest&theme=dark)](https://leetcode.com/u/Hema_7426)  
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Hema7426?ext=contest&theme=dark)](https://leetcode.com/u/Hema7426)  
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemalatha7426&bg_color=000000&color=51f565&line=ffffff&area=true&hide_border=true)](https://github.com/Hemalatha7426)  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemalatha7426&bg_color=000000&color=51f565&line=ffffff&area=true&hide_border=true)](https://github.com/Hemalatha7426)
