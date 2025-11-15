@@ -98,8 +98,7 @@ Motivated IT student passionate about **full-stack development** and problem-sol
 ---
 
 ### 📊 GitHub Stats
-![Hemalatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemalatha7426&theme=dark&show_icons=true&hide=issues,contribs)  
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Hema_7426?theme=dark&font=Marcellus)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemalatha7426&bg_color=000000&color=51f565&line=ffffff&area=true&hide_border=true)](https://github.com/Hemalatha7426)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemalatha7426&bg_color=1f1e1f&color=f7f7f7&line=29d654&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
