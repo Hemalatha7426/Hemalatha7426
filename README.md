@@ -12,9 +12,11 @@ Motivated IT student passionate about **full-stack development** and problem-sol
 ---
 
 ### 📫 Connect with me
+<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemalatha-r-262133291)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemalatha7426)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Hema7426)  
+</div>
 
 ---
 
